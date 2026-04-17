@@ -1,0 +1,127 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1919px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u695_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1919px;
+  height:934px;
+}
+#u695 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1919px;
+  height:934px;
+}
+#u696 {
+  position:absolute;
+  left:2px;
+  top:459px;
+  width:1915px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u697_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1653px;
+  height:401px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u697 {
+  position:absolute;
+  left:237px;
+  top:237px;
+  width:1653px;
+  height:401px;
+}
+#u698 {
+  position:absolute;
+  left:2px;
+  top:192px;
+  width:1649px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u699_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:117px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(24, 144, 255, 1);
+  border:none;
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u699 {
+  position:absolute;
+  left:249px;
+  top:193px;
+  width:117px;
+  height:32px;
+  font-family:'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u700 {
+  position:absolute;
+  left:16px;
+  top:7px;
+  width:85px;
+  white-space:nowrap;
+}
+#u701_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1644px;
+  height:604px;
+}
+#u701 {
+  position:absolute;
+  left:237px;
+  top:240px;
+  width:1644px;
+  height:604px;
+}
+#u702 {
+  position:absolute;
+  left:2px;
+  top:294px;
+  width:1640px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
